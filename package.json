@@ -1,7 +1,6 @@
 {
   "name": "my-bot",
   "version": "1.0.0",
-  "description": "Telegram Bot App",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
